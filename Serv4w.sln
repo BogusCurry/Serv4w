@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serv4w", "Serv4w\Serv4w.csproj", "{E6D81907-4673-419E-8D56-C14F1A212954}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C43AAE22-4503-4F05-9652-24136774EA03} = {C43AAE22-4503-4F05-9652-24136774EA03}
+		{44C7B342-C467-414F-91AF-6D449395327F} = {44C7B342-C467-414F-91AF-6D449395327F}
+		{E95E4C67-7389-4C66-882B-2BF7307812D8} = {E95E4C67-7389-4C66-882B-2BF7307812D8}
+		{151FE2C4-C838-4392-A096-DAE136DCA063} = {151FE2C4-C838-4392-A096-DAE136DCA063}
+		{E26621F4-C08B-49DB-9AAE-88EC5FE1B353} = {E26621F4-C08B-49DB-9AAE-88EC5FE1B353}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin_Minecraft_Vanilla", "Plugin_Minecraft_Vanilla\Plugin_Minecraft_Vanilla.csproj", "{E95E4C67-7389-4C66-882B-2BF7307812D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginHandler", "PluginHandler\PluginHandler.csproj", "{191CF95C-708C-427F-BB06-F586D2E07982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin_Minecraft_Bukkit", "Plugin_Minecraft_Bukkit\Plugin_Minecraft_Bukkit.csproj", "{44C7B342-C467-414F-91AF-6D449395327F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin_Minecraft_Spigot", "Plugin_Minecraft_Spigot\Plugin_Minecraft_Spigot.csproj", "{151FE2C4-C838-4392-A096-DAE136DCA063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin_Garrysmod", "Plugin_Garrysmod\Plugin_Garrysmod.csproj", "{E26621F4-C08B-49DB-9AAE-88EC5FE1B353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin_Terraria_TShock", "Plugin_Terraria_TShock\Plugin_Terraria_TShock.csproj", "{C43AAE22-4503-4F05-9652-24136774EA03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D81907-4673-419E-8D56-C14F1A212954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D81907-4673-419E-8D56-C14F1A212954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D81907-4673-419E-8D56-C14F1A212954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D81907-4673-419E-8D56-C14F1A212954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E95E4C67-7389-4C66-882B-2BF7307812D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95E4C67-7389-4C66-882B-2BF7307812D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95E4C67-7389-4C66-882B-2BF7307812D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95E4C67-7389-4C66-882B-2BF7307812D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{191CF95C-708C-427F-BB06-F586D2E07982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191CF95C-708C-427F-BB06-F586D2E07982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191CF95C-708C-427F-BB06-F586D2E07982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191CF95C-708C-427F-BB06-F586D2E07982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44C7B342-C467-414F-91AF-6D449395327F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C7B342-C467-414F-91AF-6D449395327F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C7B342-C467-414F-91AF-6D449395327F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C7B342-C467-414F-91AF-6D449395327F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{151FE2C4-C838-4392-A096-DAE136DCA063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151FE2C4-C838-4392-A096-DAE136DCA063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151FE2C4-C838-4392-A096-DAE136DCA063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151FE2C4-C838-4392-A096-DAE136DCA063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26621F4-C08B-49DB-9AAE-88EC5FE1B353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26621F4-C08B-49DB-9AAE-88EC5FE1B353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26621F4-C08B-49DB-9AAE-88EC5FE1B353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26621F4-C08B-49DB-9AAE-88EC5FE1B353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43AAE22-4503-4F05-9652-24136774EA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43AAE22-4503-4F05-9652-24136774EA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43AAE22-4503-4F05-9652-24136774EA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43AAE22-4503-4F05-9652-24136774EA03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

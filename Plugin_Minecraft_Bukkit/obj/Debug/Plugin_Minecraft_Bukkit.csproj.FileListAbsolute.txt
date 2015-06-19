@@ -1,0 +1,7 @@
+c:\Users\Scarsz\documents\visual studio 2013\Projects\Serv4w\Plugin_Minecraft_Bukkit\bin\Debug\Plugin_Minecraft_Bukkit.dll
+c:\Users\Scarsz\documents\visual studio 2013\Projects\Serv4w\Plugin_Minecraft_Bukkit\bin\Debug\Plugin_Minecraft_Bukkit.pdb
+c:\Users\Scarsz\documents\visual studio 2013\Projects\Serv4w\Plugin_Minecraft_Bukkit\bin\Debug\PluginHandler.dll
+c:\Users\Scarsz\documents\visual studio 2013\Projects\Serv4w\Plugin_Minecraft_Bukkit\bin\Debug\PluginHandler.pdb
+c:\Users\Scarsz\documents\visual studio 2013\Projects\Serv4w\Plugin_Minecraft_Bukkit\obj\Debug\Plugin_Minecraft_Bukkit.csprojResolveAssemblyReference.cache
+c:\Users\Scarsz\documents\visual studio 2013\Projects\Serv4w\Plugin_Minecraft_Bukkit\obj\Debug\Plugin_Minecraft_Bukkit.dll
+c:\Users\Scarsz\documents\visual studio 2013\Projects\Serv4w\Plugin_Minecraft_Bukkit\obj\Debug\Plugin_Minecraft_Bukkit.pdb

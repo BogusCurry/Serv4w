@@ -1,0 +1,7 @@
+c:\Users\Scarsz\documents\visual studio 2013\Projects\Serv4w\Plugin_Terraria_TShock\bin\Debug\Plugin_Terraria_TShock.dll
+c:\Users\Scarsz\documents\visual studio 2013\Projects\Serv4w\Plugin_Terraria_TShock\bin\Debug\Plugin_Terraria_TShock.pdb
+c:\Users\Scarsz\documents\visual studio 2013\Projects\Serv4w\Plugin_Terraria_TShock\bin\Debug\PluginHandler.dll
+c:\Users\Scarsz\documents\visual studio 2013\Projects\Serv4w\Plugin_Terraria_TShock\bin\Debug\PluginHandler.pdb
+c:\Users\Scarsz\documents\visual studio 2013\Projects\Serv4w\Plugin_Terraria_TShock\obj\Debug\Plugin_Terraria_TShock.csprojResolveAssemblyReference.cache
+c:\Users\Scarsz\documents\visual studio 2013\Projects\Serv4w\Plugin_Terraria_TShock\obj\Debug\Plugin_Terraria_TShock.dll
+c:\Users\Scarsz\documents\visual studio 2013\Projects\Serv4w\Plugin_Terraria_TShock\obj\Debug\Plugin_Terraria_TShock.pdb

@@ -1,0 +1,13 @@
+c:\users\scarsz\documents\visual studio 2013\Projects\Serv4w\Serv4w\bin\Debug\Plugins\Plugin_Garrysmod.dll
+c:\users\scarsz\documents\visual studio 2013\Projects\Serv4w\Serv4w\bin\Debug\Plugins\Plugin_Minecraft_Bukkit.dll
+c:\users\scarsz\documents\visual studio 2013\Projects\Serv4w\Serv4w\bin\Debug\Plugins\Plugin_Minecraft_Spigot.dll
+c:\users\scarsz\documents\visual studio 2013\Projects\Serv4w\Serv4w\bin\Debug\Plugins\Plugin_Minecraft_Vanilla.dll
+c:\users\scarsz\documents\visual studio 2013\Projects\Serv4w\Serv4w\bin\Debug\Plugins\Plugin_Terraria_TShock.dll
+c:\users\scarsz\documents\visual studio 2013\Projects\Serv4w\Serv4w\bin\Debug\Serv4w.exe.config
+c:\users\scarsz\documents\visual studio 2013\Projects\Serv4w\Serv4w\bin\Debug\Serv4w.exe
+c:\users\scarsz\documents\visual studio 2013\Projects\Serv4w\Serv4w\bin\Debug\Serv4w.pdb
+c:\users\scarsz\documents\visual studio 2013\Projects\Serv4w\Serv4w\bin\Debug\PluginHandler.dll
+c:\users\scarsz\documents\visual studio 2013\Projects\Serv4w\Serv4w\bin\Debug\PluginHandler.pdb
+c:\users\scarsz\documents\visual studio 2013\Projects\Serv4w\Serv4w\obj\Debug\Serv4w.csprojResolveAssemblyReference.cache
+c:\users\scarsz\documents\visual studio 2013\Projects\Serv4w\Serv4w\obj\Debug\Serv4w.exe
+c:\users\scarsz\documents\visual studio 2013\Projects\Serv4w\Serv4w\obj\Debug\Serv4w.pdb
