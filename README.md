@@ -1,2 +1,2 @@
 # Serv4w
-Server suite for Windows
+A game server installer suite for Windows
